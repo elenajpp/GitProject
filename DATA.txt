@@ -1,0 +1,5 @@
+git status
+  crear fichero de tecto con touch
+  commit
+  push
+  
