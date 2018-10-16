@@ -7,3 +7,5 @@ git status
   crear fichero de tecto con touch
   commit
   push
+  efaeadfasd
+# Vamos a comprobar y a guardar
