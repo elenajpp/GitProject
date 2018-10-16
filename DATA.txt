@@ -1,6 +1,11 @@
 git status
   crear fichero de tecto con touch
   commit
-  push
+  pushaa
 
 rainning in the valley
+
+
+
+git 
+me va a explotar la cabeza
